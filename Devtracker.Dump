@@ -1,6 +1,0 @@
-
-
-1400/04/07 01:43:38 عـصـر :
-System.NotImplementedException: Not implemented (Exception from HRESULT: 0x80004001 (E_NOTIMPL))
-   at EnvDTE.Project.get_FileName()
-   at DevTracker.DevTrackerToolWinControl.InitializeSolProjCreatedDate() in C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:line 302

@@ -1,4 +1,4 @@
-﻿namespace USB_and_Partition_List
+﻿namespace HiddenVirusRemover
 {
     partial class Main
     {
@@ -76,7 +76,7 @@
             this.btnUSBSubmit.TabIndex = 1;
             this.btnUSBSubmit.Text = "ثبت";
             this.btnUSBSubmit.UseVisualStyleBackColor = true;
-            this.btnUSBSubmit.Click += new System.EventHandler(this.btnUSBSubmit_Click);
+            this.btnUSBSubmit.Click += new System.EventHandler(this.BtnUSBSubmit_Click);
             // 
             // comboBox1
             // 
@@ -108,7 +108,7 @@
             this.btnPartitionSumbit.TabIndex = 2;
             this.btnPartitionSumbit.Text = "ثبت";
             this.btnPartitionSumbit.UseVisualStyleBackColor = true;
-            this.btnPartitionSumbit.Click += new System.EventHandler(this.btnPartitionSumbit_Click);
+            this.btnPartitionSumbit.Click += new System.EventHandler(this.BtnPartitionSubmit_Click);
             // 
             // comboBox2
             // 
