@@ -87,7 +87,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
-    <Content Include="web_research_xiC_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
